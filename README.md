@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dsa for java
 - 🌱 I’m currently working as web developer
 - 💞️ I’m looking to collaborate on to commit to the possibility of producing an outcome greater than one that would be developed
-- 📫 How to reach me vivekanandkadole1234@gmail.com 
+- 📫 How to reach me Oviveks941@gmail.com 
 - 😄 Pronouns: he
 - ⚡ Fun fact: im very much passionate playing with coding
 
