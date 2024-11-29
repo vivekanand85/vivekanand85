@@ -4,7 +4,7 @@
 - 🌱 I’m intermediate level dsa for java
 - 🌱 I’m currently working as web developer
 - 💞️ I’m looking to collaborate on to commit to the possibility of producing an outcome greater than one that would be developed
-- 📫 How to reach me Oviveks941@gmail.com 
+- 📫 How to reach me vivekanandkadole18@gmail.com 
 - 😄 Pronouns: he
 - ⚡ Fun fact: im very much passionate playing with coding
 - 👀 my skills are html css bootstrap javascript reacct java jdbc hibernate spring ioc,mvc,spring boot,sql familiar with node.js express.js mongodb etc...
