@@ -2,7 +2,7 @@
 - 👀 I’m interested in developer role
 - 📫 i build projects based on stack are html, css, bootstrap,js,MERN stack, java,jdbc,hibernate,spring ioc,pring mvc & spring boot
 - 🌱 I’m intermediate level dsa for java
-- 🌱 I’m currently working as web developer
+- 🌱 I’m currently working as full stack developer (web developer)
 - 💞️ I’m looking to collaborate on to commit to the possibility of producing an outcome greater than one that would be developed
 - 📫 How to reach me vivekanandkadole18@gmail.com 
 - 😄 Pronouns: he
